@@ -17,8 +17,7 @@ import Configuracion from "./pages/Configuracion";
 import AdminLayout from "./components/dashboard/AdminLayout";
 import Stepper from "./components/steppers";
 import Dashboard from "./pages/Dashboard";
-
-import Pago from "./components/Pago";
+import Pago from "./components/pago";
 
 
 import './App.css';
